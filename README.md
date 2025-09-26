@@ -21,7 +21,7 @@ This project was created as part of our Software Engineering course project.
    git clone https://github.com/HTXCORY/organic-organizer.git
    cd organic-organizer
 ---
-git checkout -b your-feature-branch
-git add .
-git commit -m "Added new feature/fix"
-git push origin your-feature-branch
+//git checkout -b your-feature-branch 
+//git add .
+//git commit -m "Added new feature/fix"
+//git push origin your-feature-branch
